@@ -1,0 +1,16 @@
+C:\Users\A590\source\repos\InventoryControl\bin\Debug\InventoryControl.exe.config
+C:\Users\A590\source\repos\InventoryControl\bin\Debug\InventoryControl.exe
+C:\Users\A590\source\repos\InventoryControl\bin\Debug\InventoryControl.pdb
+C:\Users\A590\source\repos\InventoryControl\obj\Debug\InventoryControl.csproj.AssemblyReference.cache
+C:\Users\A590\source\repos\InventoryControl\obj\Debug\InventoryControl.csproj.SuggestedBindingRedirects.cache
+C:\Users\A590\source\repos\InventoryControl\obj\Debug\InventoryControl.Delivery.resources
+C:\Users\A590\source\repos\InventoryControl\obj\Debug\InventoryControl.Properties.Resources.resources
+C:\Users\A590\source\repos\InventoryControl\obj\Debug\InventoryControl.Report.resources
+C:\Users\A590\source\repos\InventoryControl\obj\Debug\InventoryControl.csproj.GenerateResource.cache
+C:\Users\A590\source\repos\InventoryControl\obj\Debug\InventoryControl.csproj.CoreCompileInputs.cache
+C:\Users\A590\source\repos\InventoryControl\obj\Debug\InventoryControl.exe
+C:\Users\A590\source\repos\InventoryControl\obj\Debug\InventoryControl.pdb
+C:\Users\A590\source\repos\InventoryControl\bin\Debug\MySql.Data.dll
+C:\Users\A590\source\repos\InventoryControl\obj\Debug\InventoryControl.SelectData.resources
+C:\Users\A590\source\repos\InventoryControl\obj\Debug\InventoryControl.csproj.CopyComplete
+C:\Users\A590\source\repos\InventoryControl\bin\Debug\ClosedXML.dll
